@@ -55,7 +55,7 @@
   For every formatting round, the latex-editor must verify compatibility with the target journal template source, including at minimum:
 
   ```
-  F:\研一\openclaw\workspace-reviewer\IEEE-TJ-color-latex-template\main.tex
+  workspace-reviewer\Journal-style-template\main.tex
   ```
 
   If additional template artifacts exist and are relevant, also inspect them when needed, including:
