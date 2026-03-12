@@ -152,7 +152,7 @@ This step ensures that review decisions are based on **actual journal expectatio
 During Round 1, the reviewer must also inspect the template file:
 
 ```
-F:\研一\openclaw\workspace-reviewer\IEEE-TJ-color-latex-template\main.tex
+workspace-reviewer\Journal-style-template\main.tex
 ```
 
 The reviewer must understand:
