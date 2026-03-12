@@ -3,7 +3,7 @@ This project solely supports the use of openclaw to achieve language style align
 ## 1. 项目介绍
 
 这个项目用于把论文初稿（`paper.tex`）通过多 Agent 协同方式，迭代修订为“**reviewer 友好 + 格式规范 **”版本。
-这边结果是将 word通过
+如下图演示的是，将word中文论文初稿通过Pandoc转化后得到letax版本，然后通过本项目多agent迭代后得到的最终结果图。
 ![result](picture/result.png)
 
 
