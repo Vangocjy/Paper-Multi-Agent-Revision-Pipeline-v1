@@ -3,8 +3,8 @@ This project solely supports the use of openclaw to achieve language style align
 ## 1. 项目介绍
 
 这个项目用于把论文初稿（`paper.tex`）通过多 Agent 协同方式，迭代修订为“**reviewer 友好 + 格式规范 **”版本。
-
-
+这边结果是将 word通过
+![result](picture/result.png)
 
 
 
