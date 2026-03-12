@@ -1,0 +1,9 @@
+读取 workspace-shared/review_packets/ 中的目标 round reviewer packet 和当前 manuscript。
+先执行 reviewer-action-executor，生成 writer execution plan。
+然后进行内容层保守修订，保持 reviewer item traceability。
+请输出：
+- roundN_writer_revised.tex
+- roundN_writer_change_log.md
+必要时输出：
+- roundN_writer_unresolved_issues.md
+并写入 workspace-shared/revision_packets/

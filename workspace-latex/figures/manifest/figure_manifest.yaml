@@ -1,0 +1,27 @@
+figures:
+  - id: fig_intro_xxx
+    semantic_name: thematic name of the figure, 
+    source_file: PATHTOFILE,e.g., figures/raw/xxxx.png
+    preferred_tex_file: PATHTOFILE,e.g., figures/raw/xxxx.png
+    file_type: png
+    section: introduction
+    subsection: motivation
+    role: supporting-analysis
+    aliases:
+      - patch drift
+      - temporal patch drift
+      - sample drift analysis
+      - nonstationarity example
+    expected_reference_patterns:
+      - Fig. 1
+      - Figure 1
+    expected_section_keywords:
+      - introduction
+      - motivation
+      - nonstationarity
+    caption_hint:  A sample analysis of patch drift over time, illustrating the nonstationarity in the data.
+    suggested_label: fig:patch-drift
+    placement_priority: high
+    main_text_candidate: true
+    appendix_allowed: false
+    status: available

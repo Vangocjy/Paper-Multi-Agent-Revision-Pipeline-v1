@@ -1,0 +1,10 @@
+读取 workspace-shared/revision_packets/ 中的目标 round writer packet，
+以及 workspace-shared/review_packets/ 中对应 round 的 reviewer latex action list（如果存在）。
+继续执行模板整合、图片整合、格式修复和 build reporting。
+请输出：
+- roundN_latex_formatted.tex
+- roundN_latex_build_status.md
+- roundN_latex_format_report.md
+必要时输出：
+- roundN_latex_unresolved_issues.md
+并写入 workspace-shared/latex_packets/

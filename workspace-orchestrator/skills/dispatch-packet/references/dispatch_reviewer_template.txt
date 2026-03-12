@@ -1,0 +1,8 @@
+读取 workspace-shared/latex_packets/ 中的最新 latex packet，执行 roundN formal review。
+继续使用当前 journal_style.md 作为期刊风格基线。
+请输出：
+- roundN_reviewer_master_review.md
+- roundN_reviewer_writer_action_list.md
+- roundN_reviewer_latex_action_list.md
+如 round1 且 journal_style.md 仍不足，请先执行 style bootstrap 并生成 round1_reviewer_style_bootstrap_notes.md。
+并写入 workspace-shared/review_packets/
